@@ -2,3 +2,4 @@ User-agent: *
 Disallow: 
 
 Sitemap: https://www.lasers247.win/sitemap.xml
+Sitemap: https://www.lasers247.win/images_sitemap.xml
